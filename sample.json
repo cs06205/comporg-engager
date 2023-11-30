@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Oprah Winfrey",
+    "present": true
+  },
+  {
+    "name": "Ron Burgundy",
+    "present": false
+  },
+  {
+    "name": "Saul Goodman",
+    "present": true
+  },
+  {
+    "name": "Walter White",
+    "present": true
+  },
+  {
+    "name": "Sundar Pichai",
+    "present": true
+  },
+  {
+    "name": "Sheldon Cooper",
+    "present": true
+  },
+  {
+    "name": "Dolly Parton",
+    "present": true
+  },
+  {
+    "name": "Dawn Song",
+    "present": true
+  }
+]
