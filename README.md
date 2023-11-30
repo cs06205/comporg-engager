@@ -1,8 +1,10 @@
-# RowanEngager - a small tool that makes classroom engagement to the next level
+# RowanEngager - a small tool that brings classroom engagement to the next level
 
 Copyright (C) 2023 Dr. Nick Ivanov @ Rowan University
 
 e-mail: ivanov@rowan.edu, LICENSE: GNU GPL 3
+
+Version: 0.2
 
 ## Usage
 
