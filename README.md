@@ -1,4 +1,4 @@
-# RowanEngager - a small tool that brings classroom engagement to the next level
+# CompOrg Engager - a small tool that brings classroom engagement to the next level
 
 Copyright (C) 2023 Dr. Nick Ivanov @ Rowan University
 
@@ -8,10 +8,10 @@ Version: 0.2
 
 ## Usage
 
-1. Add students to a JSON file using `sample.json` as an example; mark the attendance.
+1. Add students to a JSON file (prefixed with `class-`) using `sample.json` as an example; mark the attendance (e.g., `class-cs06205-1.json`).
 2. Run this command:
 ```
-cargo run sample.json
+cargo run class-cs06205-1.json
 ```
 3. Put the Lucky One on the spot by asking question, asking to write something on the board, etc.
 4. Give the Lucky One a participation bonus point.
