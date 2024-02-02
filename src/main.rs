@@ -60,12 +60,19 @@ fn main() {
                     let n = students_present.len();
 
                     for student in students_present {
+                        let mut captain = false;
                         if (n-counter) >= 2 && counter % 3 == 0 {
                             println!("\nGROUP {}:", group_counter);
                             group_counter += 1;
+                            captain = true;
                         }
 
-                        println!("{}", student);
+                        if captain == true {
+                            println!("{} <== GROUP CAPTAIN", student);
+                        } else {
+                            println!("{}", student);
+                        }
+                        
                         counter += 1;
                     }
                 } else {
